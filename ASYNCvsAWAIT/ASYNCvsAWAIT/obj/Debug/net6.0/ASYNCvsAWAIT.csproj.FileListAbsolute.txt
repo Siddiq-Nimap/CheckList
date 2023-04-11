@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\bin\Debug\net6.0\ASYNCvsAWAIT.exe
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\bin\Debug\net6.0\ASYNCvsAWAIT.deps.json
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\bin\Debug\net6.0\ASYNCvsAWAIT.runtimeconfig.json
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\bin\Debug\net6.0\ASYNCvsAWAIT.dll
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\bin\Debug\net6.0\ASYNCvsAWAIT.pdb
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.dll
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\refint\ASYNCvsAWAIT.dll
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.pdb
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ASYNCvsAWAIT.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\ASYNCvsAWAIT\ASYNCvsAWAIT\obj\Debug\net6.0\ref\ASYNCvsAWAIT.dll

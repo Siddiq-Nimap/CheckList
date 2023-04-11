@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\bin\Debug\net6.0\TPL_Project.exe
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\bin\Debug\net6.0\TPL_Project.deps.json
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\bin\Debug\net6.0\TPL_Project.runtimeconfig.json
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\bin\Debug\net6.0\TPL_Project.dll
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\bin\Debug\net6.0\TPL_Project.pdb
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.dll
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\refint\TPL_Project.dll
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.pdb
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\TPL_Project.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\TPL_Project\TPL_Project\obj\Debug\net6.0\ref\TPL_Project.dll

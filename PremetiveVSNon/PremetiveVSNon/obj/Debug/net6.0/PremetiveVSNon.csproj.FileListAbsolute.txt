@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\bin\Debug\net6.0\PremetiveVSNon.exe
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\bin\Debug\net6.0\PremetiveVSNon.deps.json
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\bin\Debug\net6.0\PremetiveVSNon.runtimeconfig.json
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\bin\Debug\net6.0\PremetiveVSNon.dll
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\bin\Debug\net6.0\PremetiveVSNon.pdb
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.dll
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\refint\PremetiveVSNon.dll
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.pdb
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\PremetiveVSNon.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\PremetiveVSNon\PremetiveVSNon\obj\Debug\net6.0\ref\PremetiveVSNon.dll

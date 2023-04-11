@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\bin\Debug\net6.0\VarDynamicObject.exe
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\bin\Debug\net6.0\VarDynamicObject.deps.json
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\bin\Debug\net6.0\VarDynamicObject.runtimeconfig.json
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\bin\Debug\net6.0\VarDynamicObject.dll
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\bin\Debug\net6.0\VarDynamicObject.pdb
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.dll
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\refint\VarDynamicObject.dll
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.pdb
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\VarDynamicObject.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\VarDynamicObject\VarDynamicObject\obj\Debug\net6.0\ref\VarDynamicObject.dll

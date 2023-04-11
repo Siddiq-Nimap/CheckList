@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.exe
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.deps.json
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.runtimeconfig.json
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.dll
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\bin\Debug\net6.0\StringInterpolation.pdb
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.dll
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\refint\StringInterpolation.dll
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.pdb
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\StringInterpolation\StringInterpolation\obj\Debug\net6.0\ref\StringInterpolation.dll

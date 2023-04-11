@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\ListProp\ListProp\bin\Debug\net6.0\ListProp.exe
+C:\Users\Nimap\source\repos\ListProp\ListProp\bin\Debug\net6.0\ListProp.deps.json
+C:\Users\Nimap\source\repos\ListProp\ListProp\bin\Debug\net6.0\ListProp.runtimeconfig.json
+C:\Users\Nimap\source\repos\ListProp\ListProp\bin\Debug\net6.0\ListProp.dll
+C:\Users\Nimap\source\repos\ListProp\ListProp\bin\Debug\net6.0\ListProp.pdb
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.dll
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\refint\ListProp.dll
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.pdb
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ListProp.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\ListProp\ListProp\obj\Debug\net6.0\ref\ListProp.dll

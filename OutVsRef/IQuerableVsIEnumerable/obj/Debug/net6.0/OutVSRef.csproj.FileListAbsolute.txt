@@ -1,0 +1,15 @@
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\bin\Debug\net6.0\OutVSRef.exe
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\bin\Debug\net6.0\OutVSRef.deps.json
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\bin\Debug\net6.0\OutVSRef.runtimeconfig.json
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\bin\Debug\net6.0\OutVSRef.dll
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\bin\Debug\net6.0\OutVSRef.pdb
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.dll
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\refint\OutVSRef.dll
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.pdb
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\OutVSRef.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\IQuerableVsIEnumerable\IQuerableVsIEnumerable\obj\Debug\net6.0\ref\OutVSRef.dll

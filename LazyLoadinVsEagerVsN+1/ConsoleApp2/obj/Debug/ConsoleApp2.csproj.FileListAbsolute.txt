@@ -1,0 +1,17 @@
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.dll
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.xml
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Migrations.InitialMigrations.resources
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.GenerateResource.cache
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Migrations.addedEmployeeNavigations.resources
+C:\Users\Nimap\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.Migrations.Custom.resources
